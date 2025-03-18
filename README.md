@@ -1,2 +1,5 @@
 # python-repo-arsy
-Reflect decision success green heart sound.
+
+This is a sample project written in **Python**.
+
+Generated automatically.
